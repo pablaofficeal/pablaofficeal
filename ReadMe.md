@@ -42,3 +42,18 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/https://www.instagram.com/pablaofficeal/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@pablaonlayn" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/edronbaton/edronbaton/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/edronbaton/edronbaton/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/edronbaton/edronbaton/output/github-contribution-grid-snake.svg"
+  />
+</picture>
