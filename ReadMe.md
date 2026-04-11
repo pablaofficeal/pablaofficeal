@@ -2,6 +2,24 @@
 
 ###
 
+<h1 align="left">Statistics For My Platforms</h1>
+
+<div align="left">
+  <img height="200" src="img/8n697cix.svg"  />
+</div>
+
+###
+
+<h1 align="left">Activity Statistics</h1>
+
+<div align="center">
+  <img height="140" src="img/activities-entries-growth-30-days-2026-04-11.svg"  />
+</div>
+
+###
+
+<h1 align="left">MY SKILLS</h1>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="5" />
