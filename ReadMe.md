@@ -182,9 +182,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pablaofficeal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![Coding Stats](https://vx41fwqs-8080.euw.devtunnels.ms/main/api/v1/public/github/svg/f956dcbf-2106-4750-b74b-a143c9eb146e)
+
 
 ###
 
