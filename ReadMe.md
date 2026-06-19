@@ -182,8 +182,7 @@
 
 ###
 
-![Coding Stats](https://vx41fwqs-8080.euw.devtunnels.ms/main/api/v1/public/github/svg/f956dcbf-2106-4750-b74b-a143c9eb146e)
-
+![Coding Stats](https://vx41fwqs-8080.euw.devtunnels.ms/main/api/v1/public/github/svg/801ad3c5-7246-4271-8d71-28282985c554)
 
 ###
 
