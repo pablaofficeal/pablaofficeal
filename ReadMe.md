@@ -185,6 +185,11 @@
 ![Coding Stats](https://api.testingmyproject.space/main/api/v1/public/github/svg/801ad3c5-7246-4271-8d71-28282985c554)
 
 
+## Top Languages my Analog WakaTime
+
+![Top Languages](https://testingmyproject.space/main/api/v1/public/github/svg/801ad3c5-7246-4271-8d71-28282985c554/languages)
+
+
 ###
 
 <picture>
