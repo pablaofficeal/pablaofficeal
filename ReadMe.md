@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Pavlo! 👋</h1>
 
-###
-
 <h1 align="left">MY SKILLS</h1>
 
 
