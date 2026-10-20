@@ -2,22 +2,6 @@
 
 ###
 
-<h1 align="left">Statistics For My Platforms</h1>
-
-<div align="left">
-  <img height="200" src="img/8n697cix.svg"  />
-</div>
-
-###
-
-<h1 align="left">Activity Statistics</h1>
-
-<div align="center">
-  <img height="140" src="img/activities-entries-growth-30-days-2026-04-11.svg"  />
-</div>
-
-###
-
 <h1 align="left">MY SKILLS</h1>
 
 
@@ -178,17 +162,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs logo"  />
 </div>
-
-
-###
-
-![Coding Stats](https://api.testingmyproject.space/main/api/v1/public/github/svg/801ad3c5-7246-4271-8d71-28282985c554)
-
-
-## Top Languages my Analog WakaTime
-
-![Top Languages](https://testingmyproject.space/main/api/v1/public/github/svg/801ad3c5-7246-4271-8d71-28282985c554/languages)
-
 
 ###
 
